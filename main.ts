@@ -42,3 +42,4 @@ mySprite.setPosition(8, 93)
 mySprite.vx = 50
 scene.cameraFollowSprite(mySprite)
 mySprite.ay = 400
+effects.clouds.startScreenEffect()
